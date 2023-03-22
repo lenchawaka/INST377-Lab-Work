@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "json code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/UMD-INST377/INST377-lab-work.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Len Chawaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UMD-INST377/INST377-lab-work/issues"
+  },
+  "homepage": "https://github.com/UMD-INST377/INST377-lab-work#readme"
+}
